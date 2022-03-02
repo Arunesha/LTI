@@ -1,4 +1,10 @@
 today is tuesday
 month is march
 year is 2022
+<<<<<<< HEAD
 the girl name fariha
+=======
+an apple a day keeps doctor away
+always and forever
+adding a line here in branch1 file firsttext document
+>>>>>>> branch1
